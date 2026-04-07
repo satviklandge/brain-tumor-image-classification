@@ -12,13 +12,22 @@ A deep learning-based system for automated classification of brain tumors from M
 
 ---
 
+
+##  Project Images
+
+![Image 1](Assets/img_1.png)
+![Image 2](Assets/img_2.png)
+![Image 3](Assets/img_3.png)
+![Image 4](Assets/img_4.png)
+
+---
+
 ## Table of Contents
 
 - [Overview](#overview)
 - [Dataset](#dataset)
 - [Model Architecture](#model-architecture)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Results](#results)
 - [Project Structure](#project-structure)
 - [Technologies Used](#technologies-used)
